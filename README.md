@@ -1,2 +1,1 @@
-# qwrqwrqwtrqwqwrqwrqwrwqewqe
-wqrwqtqwrqwd
+print("KUY")
